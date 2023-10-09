@@ -1,0 +1,45 @@
+{
+  "user": [
+    {
+      "id": "2bf4ec7c-4290-418a-82ec-7d5259c6ad4d",
+      "adminName": "Nasir",
+      "email": "nasiruddin.cf@gmail.com",
+      "address": "Belkuchi",
+      "contact": "01679797457",
+      "city": "Sirajganj",
+      "occupation": "Web Developer",
+      "province": "Rajshahi"
+    },
+    {
+      "id": "0c4a2ddb-b57e-4fde-a8cc-89b65ee4769d",
+      "adminName": "Tanzim",
+      "email": "meherinferdows@gmail.com",
+      "address": "Belkuchi",
+      "contact": "01733564996",
+      "city": "Sirajganj",
+      "occupation": "CEO of Company",
+      "province": "Rajshahi"
+    }
+  ],
+  "todos": [
+    {
+      "id": "786af1cc-69ee-4536-915f-dc14db5dcc0c",
+      "author": "nasir",
+      "message": "Hello world's programmer...... how are you?",
+      "email": "nasir@gmail.com",
+      "city": "Sirajganj",
+      "province": "Rajshahi",
+      "occupation": "Web Developer"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
